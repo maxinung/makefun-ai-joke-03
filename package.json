@@ -1,0 +1,12 @@
+{
+  "name": "ai-joke-03",
+  "version": "1.0.0",
+  "description": "AI coding agent joke generator for make.fun",
+  "main": "main.ts",
+  "scripts": {
+    "test": "node --test main.ts"
+  },
+  "keywords": ["makefun", "joke", "ai-agents"],
+  "license": "MIT",
+  "type": "module"
+}
